@@ -20,28 +20,27 @@ jobTypes:
   volunteer: false
 
 date:
-  all time: false
+  all time: True
   month: True
   week: True
   24 hours: false
 
 positions:
-  - Software engineer
-
+  - DevOps
+  - Cyber Security
+  - Software Developed Engineer
+  - Software Developer
+  - Software Engineer
 locations:
   - India
 
 apply_once_at_company: true
 
-distance: 200
+distance: false
 
 company_blacklist:
-  - wayfair
-  - Crossover
 
 title_blacklist:
-  - word1
-  - word2
 
 location_blacklist:
   - china
