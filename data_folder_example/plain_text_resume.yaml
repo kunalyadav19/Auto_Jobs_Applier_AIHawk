@@ -27,10 +27,7 @@ experience_details:
     employment_period: "09/2024 - 09/2024"
     location: "Remote"
     industry: "Technology"
-    key_responsibilities:
-      - responsibility: "Developed web applications using React and Node.js"
-      - responsibility: "Collaborated with cross-functional teams to design and implement new features"
-      - responsibility: "Troubleshot and resolved complex software issues"
+
     skills_acquired:
       - "React"
       - "Node.js"
@@ -53,10 +50,7 @@ experience_details:
     employment_period: "07/2024 - 07/2024"
     location: "Remote"
     industry: "Technology"
-    key_responsibilities:
-      - responsibility: "Assisted in the development of mobile applications and web platforms"
-      - responsibility: "Participated in code reviews and contributed to software design discussions"
-      - responsibility: "Resolved bugs and implemented feature enhancements"
+
     skills_acquired:
       - "Mobile app development"
       - "Code reviews"
